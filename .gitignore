@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+build/
+dist/
+release/
+_key_output.txt
+.DS_Store
+Thumbs.db
